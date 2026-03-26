@@ -1,6 +1,6 @@
 # Wind turbine repairman 3D Horror Game
 
-A video game developed for personal and experimental purposes. The idea for the game originated and was developed while the developer was pursuing a degree in Video Game Programming Engineering at UNIAT, as a personal, non-academic project.
+A video game developed for personal and experimental purposes. The idea for the game originated and was developed while the developers were pursuing their degree in Video Game Programming Engineering at UNIAT, as a personal, non-academic project.
 
 ## Description
 A short, atmospheric psychological horror game that explores the experience of working as a wind turbine repairman. Throughout the night, you must complete various tasks to keep the turbines running.
