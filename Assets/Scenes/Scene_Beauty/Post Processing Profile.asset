@@ -135,7 +135,7 @@ MonoBehaviour:
     m_Value: 1
   saturate:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
   brightness:
     m_OverrideState: 1
     m_Value: 2
@@ -143,10 +143,10 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   daltonize:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   sepia:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   tintColor:
     m_OverrideState: 0
@@ -158,21 +158,21 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 6550
   lut:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 1
   lutIntensity:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 1
   lutTexture:
-    m_OverrideState: 0
-    m_Value: {fileID: 0}
+    m_OverrideState: 1
+    m_Value: {fileID: 2800000, guid: 95bac2ae3a7a3482faff4e763a397ad0, type: 3}
     dimension: 1
   bloomIntensity:
     m_OverrideState: 1
     m_Value: 10
   bloomThreshold:
     m_OverrideState: 1
-    m_Value: 0.64
+    m_Value: 0.51
   bloomConservativeThreshold:
     m_OverrideState: 1
     m_Value: 1
@@ -443,10 +443,10 @@ MonoBehaviour:
     m_Value: 3
   chromaticAberrationIntensity:
     m_OverrideState: 1
-    m_Value: 0.0096
+    m_Value: 0.01
   chromaticAberrationShift:
     m_OverrideState: 1
-    m_Value: 0
+    m_Value: -1
   chromaticAberrationSmoothing:
     m_OverrideState: 1
     m_Value: 32
@@ -675,20 +675,20 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   outlineOuterOnly:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   outlineThreshold:
     m_OverrideState: 1
-    m_Value: 0.2
+    m_Value: 0.03
   outlineMinDepthThreshold:
     m_OverrideState: 1
-    m_Value: 0.01
+    m_Value: 0.00432
   outlineSaturationDiffThreshold:
     m_OverrideState: 1
-    m_Value: 0.384
-  outlineCustomize:
-    m_OverrideState: 0
     m_Value: 0
+  outlineCustomize:
+    m_OverrideState: 1
+    m_Value: 1
   outlineLayerMask:
     m_OverrideState: 0
     m_Value:
@@ -698,8 +698,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0
   outlineSpread:
-    m_OverrideState: 0
-    m_Value: 1
+    m_OverrideState: 1
+    m_Value: 0.15
   outlineBlurPassCount:
     m_OverrideState: 0
     m_Value: 1
@@ -707,8 +707,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0
   outlineIntensityMultiplier:
-    m_OverrideState: 0
-    m_Value: 1
+    m_OverrideState: 1
+    m_Value: 0.35
   outlineDistanceFade:
     m_OverrideState: 0
     m_Value: 0
@@ -719,10 +719,10 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 0
   nightVision:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   nightVisionColor:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 0.5, g: 1, b: 0.5, a: 0.5}
   nightVisionDepth:
     m_OverrideState: 0
@@ -774,8 +774,8 @@ MonoBehaviour:
     m_Value: {fileID: 2800000, guid: 1ac62c3237e1f3d4cbede38438a0edda, type: 3}
     dimension: 1
   filmGrainEnabled:
-    m_OverrideState: 1
-    m_Value: 1
+    m_OverrideState: 0
+    m_Value: 0
   filmGrainIntensity:
     m_OverrideState: 1
     m_Value: 0.35
