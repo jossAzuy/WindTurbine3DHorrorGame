@@ -162,10 +162,10 @@ MonoBehaviour:
     m_Value: 1
   lutIntensity:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.427
   lutTexture:
     m_OverrideState: 1
-    m_Value: {fileID: 2800000, guid: 95bac2ae3a7a3482faff4e763a397ad0, type: 3}
+    m_Value: {fileID: 2800000, guid: 0f0bfc34741b7470fabcafbbcff54a5e, type: 3}
     dimension: 1
   bloomIntensity:
     m_OverrideState: 1

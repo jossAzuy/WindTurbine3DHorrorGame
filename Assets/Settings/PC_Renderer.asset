@@ -77,37 +77,37 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   stripSettings: {fileID: 0}
-  stripBeautifyTonemappingACES: 0
-  stripBeautifyTonemappingACESFitted: 0
+  stripBeautifyTonemappingACES: 1
+  stripBeautifyTonemappingACESFitted: 1
   stripBeautifyTonemappingAGX: 0
-  stripBeautifySharpen: 0
+  stripBeautifySharpen: 1
   stripBeautifySharpenExclusionMask: 1
-  stripBeautifyDithering: 0
-  stripBeautifyEdgeAA: 0
+  stripBeautifyDithering: 1
+  stripBeautifyEdgeAA: 1
   stripBeautifyLUT: 0
   stripBeautifyLUT3D: 1
-  stripBeautifyColorTweaks: 0
+  stripBeautifyColorTweaks: 1
   stripBeautifyBloom: 0
-  stripBeautifyLensDirt: 0
-  stripBeautifyChromaticAberration: 0
+  stripBeautifyLensDirt: 1
+  stripBeautifyChromaticAberration: 1
   stripBeautifyDoF: 0
   stripBeautifyDoFTransparentSupport: 1
   stripBeautifyEyeAdaptation: 1
   stripBeautifyPurkinje: 1
-  stripBeautifyVignetting: 0
+  stripBeautifyVignetting: 1
   stripBeautifyVignettingMask: 1
-  stripBeautifyOutline: 1
-  stripBeautifyNightVision: 1
+  stripBeautifyOutline: 0
+  stripBeautifyNightVision: 0
   stripBeautifyThermalVision: 1
   stripBeautifyFrame: 1
   stripBeautifyFilmGrain: 1
-  stripUnityFilmGrain: 0
-  stripUnityDithering: 0
-  stripUnityTonemapping: 0
-  stripUnityBloom: 0
-  stripUnityChromaticAberration: 0
-  stripUnityDistortion: 0
-  stripUnityDebugVariants: 0
+  stripUnityFilmGrain: 1
+  stripUnityDithering: 1
+  stripUnityTonemapping: 1
+  stripUnityBloom: 1
+  stripUnityChromaticAberration: 1
+  stripUnityDistortion: 1
+  stripUnityDebugVariants: 1
 --- !u!114 &7833122117494664109
 MonoBehaviour:
   m_ObjectHideFlags: 0
