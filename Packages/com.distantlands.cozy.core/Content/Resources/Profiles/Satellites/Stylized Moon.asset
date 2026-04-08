@@ -26,9 +26,9 @@ MonoBehaviour:
   rotationPeriod: 28
   rotationPeriodOffset: 0
   satelliteRotateAxis: {x: 0, y: 0, z: 0}
-  satelliteDirection: 310
-  satelliteRotation: 312.94388
-  satellitePitch: -83.9
+  satelliteDirection: 286
+  satelliteRotation: 307.29303
+  satellitePitch: -53.7
   declination: 90
   declinationPeriod: 192
   changedLastFrame: 0

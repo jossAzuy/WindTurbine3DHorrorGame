@@ -40,20 +40,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 3daad8702a5ccbf418a5370bac12e4c0, type: 2}
   initialProfile: {fileID: 11400000, guid: 3daad8702a5ccbf418a5370bac12e4c0, type: 2}
   initialForecast:
-  - profile: {fileID: 11400000, guid: 48908a08bbd076e4182bc3ca961b9c34, type: 2}
-    startTime:
-      hours: 0
-      minutes: 0
-      seconds: 0
-      milliseconds: 0
-      timeAsPercentage: 0
-    endTime:
-      hours: 0
-      minutes: 0
-      seconds: 0
-      milliseconds: 0
-      timeAsPercentage: 0
-  - profile: {fileID: 11400000, guid: 94bbf17d66f5c6b4ebcd9189ba34367d, type: 2}
+  - profile: {fileID: 11400000, guid: ae94c1a397a01e442a11e8b23ebb1cef, type: 2}
     startTime:
       hours: 0
       minutes: 0
